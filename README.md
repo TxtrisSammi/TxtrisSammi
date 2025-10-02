@@ -1,4 +1,17 @@
-## Hi there 👋
+# TxtrisSammi
+
+i exist occasionally 
+
+when i do exist i go by samantha (she / her)
+
+(i hate capitaliztion)
+
+## current projects
+ - odin recipes project
+ - database managment project
+ - one page website
+ - discrete math homework
+ - data structures homework
 
 <!--
 **TxtrisSammi/TxtrisSammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
