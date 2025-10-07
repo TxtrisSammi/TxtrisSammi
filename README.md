@@ -3,7 +3,7 @@
 i exist occasionally 
 
 when i do exist i go by samantha (she / her)
-[youtube](https://youtube.com)
+
 (i hate capitaliztion)
 
 ## current projects
